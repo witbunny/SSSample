@@ -1,4 +1,6 @@
-﻿git branch sample
+﻿change on master --1
+
+git branch sample
 
 change on release -1
 
