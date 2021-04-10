@@ -13,3 +13,5 @@ change on release --1
 change on release --2
 
 change on release --3
+
+conflict on release
