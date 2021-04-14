@@ -5,12 +5,13 @@ using System.Threading.Tasks;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Mvc.RazorPages;
 
-namespace static.Pages
+namespace staticpage.Pages
 {
-    public class PrivacyModel : PageModel
-{
-    public void OnGet()
+    public class IndexModel : PageModel
     {
+        public void OnGet()
+        {
+
+        }
     }
-}
 }
